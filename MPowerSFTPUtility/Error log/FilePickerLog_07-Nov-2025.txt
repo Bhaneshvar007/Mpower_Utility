@@ -1,0 +1,100 @@
+07-Nov-25 10:10:54	Utility started at 07-Nov-25 10:10:54
+07-Nov-25 10:10:54	Opening mapping file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Mpower_Dissemination_Save\MPower_Dissemination_Save.xlsx
+07-Nov-25 10:10:54	Excel reader created successfully.
+07-Nov-25 10:10:54	Mapping file loaded successfully. Total rows: 63
+07-Nov-25 10:10:57	Total files fetched for processing: 2
+07-Nov-25 10:10:57	Total files fetched for processing: 2
+07-Nov-25 10:11:04	Processing file: data_upload_20251031.csv
+07-Nov-25 10:11:04	Identified Data Upload Bloomberg file. Copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\data_upload_20251031.csv
+07-Nov-25 10:11:18	Pattern matched: data_upload_20251031.csv => /BLOOMBERG_bind/
+07-Nov-25 10:11:41	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+07-Nov-25 10:11:41	Completed processing data_upload_20251031.csv in 22.9902581 sec
+07-Nov-25 10:11:41	Processing file: Portfoliobb_20251031.csv
+07-Nov-25 10:11:41	Identified Portfolio Bloomberg file. Copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\Portfoliobb_20251031.csv
+07-Nov-25 10:11:43	Pattern matched: Portfoliobb_20251031.csv => /BLOOMBERG_bind/
+07-Nov-25 10:11:56	ZIP created with Bloomberg files: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\BB_20251107.zip
+07-Nov-25 10:12:05	Bloomberg ZIP uploaded successfully.
+07-Nov-25 10:13:01	File copied to SUCCESS folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\SucessFiles
+07-Nov-25 10:42:18	Utility started at 07-Nov-25 10:42:18
+07-Nov-25 10:42:18	Opening mapping file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Mpower_Dissemination_Save\MPower_Dissemination_Save.xlsx
+07-Nov-25 10:42:18	Excel reader created successfully.
+07-Nov-25 10:42:18	Mapping file loaded successfully. Total rows: 63
+07-Nov-25 10:42:18	Total files fetched for processing: 2
+07-Nov-25 10:42:18	Total files fetched for processing: 2
+07-Nov-25 10:42:18	Processing file: data_upload_20251031.csv
+07-Nov-25 10:42:18	Identified Data Upload Bloomberg file. Copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\data_upload_20251031.csv
+07-Nov-25 10:42:18	Pattern matched: data_upload_20251031.csv => /BLOOMBERG_bind/
+07-Nov-25 10:43:37	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+07-Nov-25 10:43:39	Completed processing data_upload_20251031.csv in 80.1376976 sec
+07-Nov-25 10:43:45	Processing file: Portfoliobb_20251031.csv
+07-Nov-25 10:43:45	Identified Portfolio Bloomberg file. Copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\Portfoliobb_20251031.csv
+07-Nov-25 10:43:45	Pattern matched: Portfoliobb_20251031.csv => /BLOOMBERG_bind/
+07-Nov-25 10:44:09	ZIP created with Bloomberg files: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\BB_20251107.zip
+07-Nov-25 10:44:10	File Name: BB_20251107.zip
+07-Nov-25 10:44:10	Trying to connect to SFTP: 205.216.112.23:22
+07-Nov-25 10:44:31	Unable to connect to 205.216.112.23:22. Reason: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+07-Nov-25 10:44:51	Bloomberg ZIP upload failed.
+07-Nov-25 10:45:15	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+07-Nov-25 10:45:16	Completed processing Portfoliobb_20251031.csv in 90.8629578 sec
+07-Nov-25 10:45:20	Utility completed successfully at 07-Nov-25 10:45:20
+
+07-Nov-25 11:28:37	Utility started at 07-Nov-25 11:28:37
+07-Nov-25 11:28:37	Opening mapping file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Mpower_Dissemination_Save\MPower_Dissemination_Save.xlsx
+07-Nov-25 11:28:37	Excel reader created successfully.
+07-Nov-25 11:28:37	Mapping file loaded successfully. Total rows: 63
+07-Nov-25 11:28:37	Total files fetched for processing: 2
+07-Nov-25 11:28:37	Total files fetched for processing: 2
+07-Nov-25 11:28:37	Processing file: Portfoliobb_20251031.csv
+07-Nov-25 11:28:37	Identified Portfolio Bloomberg file. Copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\Portfoliobb_20251031.csv
+07-Nov-25 11:28:49	Pattern matched: Portfoliobb_20251031.csv => /BLOOMBERG_bind/
+07-Nov-25 11:29:14	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+07-Nov-25 11:29:29	Completed processing Portfoliobb_20251031.csv in 38.717481 sec
+07-Nov-25 11:29:33	Processing file: Portfolio_20251106.txt
+07-Nov-25 11:29:33	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Portfolio_20251106.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Portfolio_20251106.txt
+07-Nov-25 11:29:37	Pattern matched: Portfolio_20251106.txt => /FACTSET_bind/
+07-Nov-25 11:31:39	Utility started at 07-Nov-25 11:31:39
+07-Nov-25 11:31:39	Opening mapping file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Mpower_Dissemination_Save\MPower_Dissemination_Save.xlsx
+07-Nov-25 11:31:39	Excel reader created successfully.
+07-Nov-25 11:31:40	Mapping file loaded successfully. Total rows: 63
+07-Nov-25 11:31:40	Total files fetched for processing: 3
+07-Nov-25 11:31:40	Total files fetched for processing: 3
+07-Nov-25 11:31:40	Processing file: data_upload_20251031.csv
+07-Nov-25 11:31:40	Identified Data Upload Bloomberg file. Copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\data_upload_20251031.csv
+07-Nov-25 11:31:45	Pattern matched: data_upload_20251031.csv => /BLOOMBERG_bind/
+07-Nov-25 11:31:48	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+07-Nov-25 11:31:48	Completed processing data_upload_20251031.csv in 2.5202273 sec
+07-Nov-25 11:31:48	Processing file: Portfoliobb_20251031.csv
+07-Nov-25 11:31:48	Identified Portfolio Bloomberg file. Copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\Portfoliobb_20251031.csv
+07-Nov-25 11:31:57	Pattern matched: Portfoliobb_20251031.csv => /BLOOMBERG_bind/
+07-Nov-25 11:32:14	ZIP created with Bloomberg files: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\BB_20251107.zip
+07-Nov-25 11:32:14	Bloomberg ZIP upload failed.
+07-Nov-25 11:32:43	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+07-Nov-25 11:32:49	Completed processing Portfoliobb_20251031.csv in 51.2569478 sec
+07-Nov-25 11:32:55	Processing file: Portfolio_20251106.txt
+07-Nov-25 11:32:55	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Portfolio_20251106.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Portfolio_20251106.txt
+07-Nov-25 11:33:13	Pattern matched: Portfolio_20251106.txt => /FACTSET_bind/
+07-Nov-25 11:33:24	ZIP created with Bloomberg files: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\BB_20251107.zip
+07-Nov-25 11:33:27	Bloomberg ZIP uploaded successfully.
+07-Nov-25 11:35:35	Utility started at 07-Nov-25 11:35:35
+07-Nov-25 11:35:35	Opening mapping file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Mpower_Dissemination_Save\MPower_Dissemination_Save.xlsx
+07-Nov-25 11:35:35	Excel reader created successfully.
+07-Nov-25 11:35:35	Mapping file loaded successfully. Total rows: 63
+07-Nov-25 11:35:35	Total files fetched for processing: 3
+07-Nov-25 11:35:35	Total files fetched for processing: 3
+07-Nov-25 11:35:35	Processing file: data_upload_20251031.csv
+07-Nov-25 11:35:35	Identified Data Upload Bloomberg file. Copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\data_upload_20251031.csv
+07-Nov-25 11:35:41	Pattern matched: data_upload_20251031.csv => /BLOOMBERG_bind/
+07-Nov-25 11:35:48	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+07-Nov-25 11:35:48	Completed processing data_upload_20251031.csv in 7.5590587 sec
+07-Nov-25 11:35:48	Processing file: Portfoliobb_20251031.csv
+07-Nov-25 11:35:49	Identified Portfolio Bloomberg file. Copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\Portfoliobb_20251031.csv
+07-Nov-25 11:35:55	Pattern matched: Portfoliobb_20251031.csv => /BLOOMBERG_bind/
+07-Nov-25 11:36:12	ZIP created with Bloomberg files: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\BB_20251107.zip
+07-Nov-25 11:36:17	Bloomberg ZIP upload failed.
+07-Nov-25 11:36:24	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+07-Nov-25 11:36:34	Completed processing Portfoliobb_20251031.csv in 38.1238996 sec
+07-Nov-25 11:36:38	Processing file: Portfolio_20251106.txt
+07-Nov-25 11:36:38	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Portfolio_20251106.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Portfolio_20251106.txt
+07-Nov-25 11:36:43	Pattern matched: Portfolio_20251106.txt => /FACTSET_bind/
+07-Nov-25 11:37:18	ZIP created with Bloomberg files: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Bloomberg-Input\BB_20251107.zip
+07-Nov-25 11:37:21	Bloomberg ZIP uploaded successfully.

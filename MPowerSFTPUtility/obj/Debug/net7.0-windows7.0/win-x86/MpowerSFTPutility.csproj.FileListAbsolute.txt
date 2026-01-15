@@ -1,0 +1,410 @@
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.exe
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.dll.config
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.deps.json
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.runtimeconfig.json
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\BouncyCastle.Cryptography.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\ExcelDataReader.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\ExcelDataReader.DataSet.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\Renci.SshNet.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Configuration.ConfigurationManager.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Formats.Asn1.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.CSharp.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.VisualBasic.Core.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.VisualBasic.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.Win32.Primitives.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.Win32.Registry.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.AppContext.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Buffers.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Collections.Concurrent.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Collections.Immutable.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Collections.NonGeneric.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Collections.Specialized.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Collections.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.Annotations.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.DataAnnotations.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.Primitives.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.TypeConverter.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Configuration.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Console.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Core.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Data.Common.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Data.DataSetExtensions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Data.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.Contracts.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.Debug.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.Process.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.StackTrace.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.Tools.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.TraceSource.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.Tracing.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Drawing.Primitives.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Drawing.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Dynamic.Runtime.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Formats.Tar.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Globalization.Calendars.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Globalization.Extensions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Globalization.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Compression.Brotli.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Compression.FileSystem.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Compression.ZipFile.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Compression.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.FileSystem.AccessControl.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.FileSystem.Primitives.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.FileSystem.Watcher.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.FileSystem.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.IsolatedStorage.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.MemoryMappedFiles.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Pipes.AccessControl.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Pipes.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Linq.Expressions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Linq.Parallel.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Linq.Queryable.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Linq.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Memory.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Http.Json.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Http.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.HttpListener.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Mail.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.NameResolution.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.NetworkInformation.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Ping.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Primitives.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Quic.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Requests.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Security.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.ServicePoint.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Sockets.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.WebClient.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.WebHeaderCollection.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.WebProxy.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.WebSockets.Client.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.WebSockets.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Numerics.Vectors.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Numerics.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.ObjectModel.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Private.CoreLib.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Private.DataContractSerialization.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Private.Uri.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Private.Xml.Linq.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Private.Xml.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.DispatchProxy.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Emit.Lightweight.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Emit.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Extensions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Metadata.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Primitives.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.TypeExtensions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Resources.Reader.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Resources.ResourceManager.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Resources.Writer.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Extensions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Handles.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.InteropServices.JavaScript.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.InteropServices.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Intrinsics.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Loader.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Numerics.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Serialization.Formatters.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Serialization.Json.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Serialization.Primitives.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Serialization.Xml.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Serialization.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.AccessControl.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Claims.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.Algorithms.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.Cng.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.Csp.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.Encoding.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.Primitives.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Principal.Windows.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Principal.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.SecureString.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.ServiceModel.Web.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.ServiceProcess.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.Encoding.CodePages.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.Encoding.Extensions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.Encoding.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.Encodings.Web.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.Json.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.RegularExpressions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Channels.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Overlapped.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Tasks.Dataflow.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Tasks.Extensions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Tasks.Parallel.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Tasks.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Thread.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.ThreadPool.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Timer.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Transactions.Local.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Transactions.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.ValueTuple.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Web.HttpUtility.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Web.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Windows.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.Linq.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.ReaderWriter.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.Serialization.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.XDocument.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.XPath.XDocument.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.XPath.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.XmlDocument.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.XmlSerializer.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\WindowsBase.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\mscorlib.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\netstandard.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Compression.Native.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\clretwrc.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\clrgc.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\clrjit.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\coreclr.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\createdump.exe
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\hostfxr.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\hostpolicy.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\mscordaccore.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\mscordaccore_x86_x86_7.0.2024.26716.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\mscordbi.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\mscorrc.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\bin\Debug\net7.0-windows7.0\win-x86\msquic.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.csproj.AssemblyReference.cache
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.AssemblyInfoInputs.cache
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.AssemblyInfo.cs
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.csproj.CoreCompileInputs.cache
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSF.AF4F0145.Up2Date
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\obj\Debug\net7.0-windows7.0\win-x86\refint\MpowerSFTPutility.dll
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.genruntimeconfig.cache
+D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\obj\Debug\net7.0-windows7.0\win-x86\ref\MpowerSFTPutility.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.exe
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.dll.config
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.deps.json
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.runtimeconfig.json
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\BouncyCastle.Cryptography.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\ExcelDataReader.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\ExcelDataReader.DataSet.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.Extensions.Logging.Abstractions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\Renci.SshNet.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Configuration.ConfigurationManager.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Formats.Asn1.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.ProtectedData.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.CSharp.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.VisualBasic.Core.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.VisualBasic.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.Win32.Primitives.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.Win32.Registry.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.AppContext.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Buffers.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Collections.Concurrent.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Collections.Immutable.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Collections.NonGeneric.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Collections.Specialized.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Collections.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.Annotations.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.DataAnnotations.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.Primitives.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.TypeConverter.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.ComponentModel.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Configuration.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Console.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Core.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Data.Common.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Data.DataSetExtensions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Data.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.Contracts.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.Debug.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.Process.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.StackTrace.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.Tools.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.TraceSource.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Diagnostics.Tracing.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Drawing.Primitives.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Drawing.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Dynamic.Runtime.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Formats.Tar.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Globalization.Calendars.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Globalization.Extensions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Globalization.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Compression.Brotli.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Compression.FileSystem.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Compression.ZipFile.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Compression.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.FileSystem.AccessControl.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.FileSystem.Primitives.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.FileSystem.Watcher.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.FileSystem.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.IsolatedStorage.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.MemoryMappedFiles.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Pipes.AccessControl.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Pipes.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Linq.Expressions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Linq.Parallel.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Linq.Queryable.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Linq.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Memory.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Http.Json.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Http.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.HttpListener.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Mail.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.NameResolution.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.NetworkInformation.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Ping.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Primitives.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Quic.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Requests.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Security.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.ServicePoint.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.Sockets.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.WebClient.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.WebHeaderCollection.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.WebProxy.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.WebSockets.Client.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.WebSockets.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Net.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Numerics.Vectors.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Numerics.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.ObjectModel.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Private.CoreLib.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Private.DataContractSerialization.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Private.Uri.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Private.Xml.Linq.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Private.Xml.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.DispatchProxy.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Emit.Lightweight.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Emit.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Extensions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Metadata.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.Primitives.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.TypeExtensions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Reflection.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Resources.Reader.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Resources.ResourceManager.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Resources.Writer.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Extensions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Handles.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.InteropServices.JavaScript.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.InteropServices.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Intrinsics.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Loader.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Numerics.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Serialization.Formatters.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Serialization.Json.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Serialization.Primitives.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Serialization.Xml.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.Serialization.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Runtime.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.AccessControl.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Claims.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.Algorithms.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.Cng.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.Csp.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.Encoding.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.Primitives.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Cryptography.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Principal.Windows.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.Principal.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.SecureString.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Security.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.ServiceModel.Web.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.ServiceProcess.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.Encoding.CodePages.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.Encoding.Extensions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.Encoding.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.Encodings.Web.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.Json.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Text.RegularExpressions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Channels.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Overlapped.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Tasks.Dataflow.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Tasks.Extensions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Tasks.Parallel.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Tasks.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Thread.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.ThreadPool.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.Timer.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Threading.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Transactions.Local.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Transactions.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.ValueTuple.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Web.HttpUtility.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Web.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Windows.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.Linq.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.ReaderWriter.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.Serialization.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.XDocument.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.XPath.XDocument.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.XPath.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.XmlDocument.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.XmlSerializer.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.Xml.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\WindowsBase.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\mscorlib.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\netstandard.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\System.IO.Compression.Native.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\clretwrc.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\clrgc.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\clrjit.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\coreclr.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\createdump.exe
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\hostfxr.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\hostpolicy.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\mscordaccore.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\mscordaccore_x86_x86_7.0.2024.26716.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\mscordbi.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\mscorrc.dll
+D:\All Cylsys Project\MPowerSFTPUtility\bin\Debug\net7.0-windows7.0\win-x86\msquic.dll
+D:\All Cylsys Project\MPowerSFTPUtility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.csproj.AssemblyReference.cache
+D:\All Cylsys Project\MPowerSFTPUtility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Cylsys Project\MPowerSFTPUtility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.AssemblyInfoInputs.cache
+D:\All Cylsys Project\MPowerSFTPUtility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.AssemblyInfo.cs
+D:\All Cylsys Project\MPowerSFTPUtility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.csproj.CoreCompileInputs.cache
+D:\All Cylsys Project\MPowerSFTPUtility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSF.AF4F0145.Up2Date
+D:\All Cylsys Project\MPowerSFTPUtility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.dll
+D:\All Cylsys Project\MPowerSFTPUtility\obj\Debug\net7.0-windows7.0\win-x86\refint\MpowerSFTPutility.dll
+D:\All Cylsys Project\MPowerSFTPUtility\obj\Debug\net7.0-windows7.0\win-x86\MpowerSFTPutility.genruntimeconfig.cache
+D:\All Cylsys Project\MPowerSFTPUtility\obj\Debug\net7.0-windows7.0\win-x86\ref\MpowerSFTPutility.dll

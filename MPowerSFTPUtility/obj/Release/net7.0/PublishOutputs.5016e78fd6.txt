@@ -1,0 +1,15 @@
+D:\Bhaneshvar\Publish\MpowerSFTPutility.exe
+D:\Bhaneshvar\Publish\MpowerSFTPutility.dll
+D:\Bhaneshvar\Publish\MpowerSFTPutility.deps.json
+D:\Bhaneshvar\Publish\MpowerSFTPutility.runtimeconfig.json
+D:\Bhaneshvar\Publish\MpowerSFTPutility.dll.config
+D:\Bhaneshvar\Publish\MpowerSFTPutility.pdb
+D:\Bhaneshvar\Publish\BouncyCastle.Cryptography.dll
+D:\Bhaneshvar\Publish\ExcelDataReader.dll
+D:\Bhaneshvar\Publish\ExcelDataReader.DataSet.dll
+D:\Bhaneshvar\Publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bhaneshvar\Publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bhaneshvar\Publish\Renci.SshNet.dll
+D:\Bhaneshvar\Publish\System.Configuration.ConfigurationManager.dll
+D:\Bhaneshvar\Publish\System.Formats.Asn1.dll
+D:\Bhaneshvar\Publish\System.Security.Cryptography.ProtectedData.dll

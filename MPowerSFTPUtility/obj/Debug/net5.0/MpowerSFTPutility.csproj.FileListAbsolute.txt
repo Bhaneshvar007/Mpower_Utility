@@ -1,0 +1,5 @@
+D:\Bhaneshvar\MpowerSFTPutility\obj\Debug\net5.0\MpowerSFTPutility.csproj.AssemblyReference.cache
+D:\Bhaneshvar\MpowerSFTPutility\obj\Debug\net5.0\MpowerSFTPutility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bhaneshvar\MpowerSFTPutility\obj\Debug\net5.0\MpowerSFTPutility.AssemblyInfoInputs.cache
+D:\Bhaneshvar\MpowerSFTPutility\obj\Debug\net5.0\MpowerSFTPutility.AssemblyInfo.cs
+D:\Bhaneshvar\MpowerSFTPutility\obj\Debug\net5.0\MpowerSFTPutility.csproj.CoreCompileInputs.cache

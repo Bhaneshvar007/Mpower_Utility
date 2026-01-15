@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0-windows7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
+    <BaseOutputPath></BaseOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BloombergInput\**" />
+    <EmbeddedResource Remove="BloombergInput\**" />
+    <None Remove="BloombergInput\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include=".vs\MpowerSFTPutility\v17\DocumentLayout.backup.json" />
+    <Content Include=".vs\MpowerSFTPutility\v17\DocumentLayout.json" />
+    <Content Include=".vs\MpowerSFTPutility\v18\DocumentLayout.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ExcelDataReader" Version="3.7.0" />
+    <PackageReference Include="ExcelDataReader.DataSet" Version="3.7.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.22.1" />
+    <PackageReference Include="SSH.NET" Version="2025.0.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Bloomberg-Input\" />
+    <Folder Include="Error log\" />
+    <Folder Include="FactSet\Backup\" />
+    <Folder Include="FactSet\Input\" />
+    <Folder Include="ResultFolder\ErrorFiles\" />
+    <Folder Include="ResultFolder\SucessFiles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include=".vs\MpowerSFTPutility\CopilotIndices\17.14.670.39694\CodeChunks.db" />
+    <None Include=".vs\MpowerSFTPutility\CopilotIndices\17.14.670.39694\SemanticSymbols.db" />
+    <None Include=".vs\MpowerSFTPutility\DesignTimeBuild\.dtbcache.v2" />
+    <None Include=".vs\MpowerSFTPutility\FileContentIndex\95b295a3-f857-49cc-a197-3e2d4058f0ab.vsidx" />
+    <None Include=".vs\MpowerSFTPutility\v17\.futdcache.v2" />
+    <None Include=".vs\ProjectEvaluation\mpowersftputility.metadata.v7.bin" />
+    <None Include=".vs\ProjectEvaluation\mpowersftputility.projects.v7.bin" />
+    <None Include=".vs\ProjectEvaluation\mpowersftputility.strings.v9.bin" />
+    <None Include="MpowerSFTPutility.sln" />
+  </ItemGroup>
+
+</Project>

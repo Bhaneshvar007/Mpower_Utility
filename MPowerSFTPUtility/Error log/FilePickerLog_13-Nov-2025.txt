@@ -1,0 +1,66 @@
+13-Nov-25 15:20:14	Utility started at 13-Nov-25 15:20:14
+13-Nov-25 15:20:14	Opening mapping file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Mpower_Dissemination_Save\MPower_Dissemination_Save.xlsx
+13-Nov-25 15:20:14	Excel reader created successfully.
+13-Nov-25 15:20:14	Mapping file loaded successfully. Total rows: 64
+13-Nov-25 15:20:14	Total files fetched for processing: 8
+13-Nov-25 15:20:14	Total files fetched for processing: 8
+13-Nov-25 15:20:14	Processing file: Callput_20251103.txt
+13-Nov-25 15:20:14	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Callput_20251103.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Callput_20251103.txt
+13-Nov-25 15:20:14	Pattern matched: Callput_20251103.txt => /FACTSET_bind/
+13-Nov-25 15:20:14	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+13-Nov-25 15:20:14	Completed processing Callput_20251103.txt in 0.0763333 sec
+13-Nov-25 15:20:14	Processing file: Dues_20251103.txt
+13-Nov-25 15:20:14	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Dues_20251103.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Dues_20251103.txt
+13-Nov-25 15:20:14	Pattern matched: Dues_20251103.txt => /FACTSET_bind/
+13-Nov-25 15:20:14	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+13-Nov-25 15:20:14	Completed processing Dues_20251103.txt in 0.001736 sec
+13-Nov-25 15:20:14	Processing file: Indxval_20251103.txt
+13-Nov-25 15:20:14	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Indxval_20251103.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Indxval_20251103.txt
+13-Nov-25 15:20:14	Pattern matched: Indxval_20251103.txt => /FACTSET_bind/
+13-Nov-25 15:20:14	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+13-Nov-25 15:20:14	Completed processing Indxval_20251103.txt in 0.0014972 sec
+13-Nov-25 15:20:14	Processing file: Portfolio_20251103.txt
+13-Nov-25 15:20:14	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Portfolio_20251103.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Portfolio_20251103.txt
+13-Nov-25 15:20:14	Pattern matched: Portfolio_20251103.txt => /FACTSET_bind/
+13-Nov-25 15:20:14	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+13-Nov-25 15:20:14	Completed processing Portfolio_20251103.txt in 0.0032364 sec
+13-Nov-25 15:20:14	Processing file: Price_20251103.txt
+13-Nov-25 15:20:14	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Price_20251103.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Price_20251103.txt
+13-Nov-25 15:20:14	Pattern matched: Price_20251103.txt => /FACTSET_bind/
+13-Nov-25 15:20:14	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+13-Nov-25 15:20:14	Completed processing Price_20251103.txt in 0.0019915 sec
+13-Nov-25 15:20:14	Processing file: Security_20251103.txt
+13-Nov-25 15:20:14	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Security_20251103.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Security_20251103.txt
+13-Nov-25 15:20:14	Pattern matched: Security_20251103.txt => /FACTSET_bind/
+13-Nov-25 15:20:14	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+13-Nov-25 15:20:14	Completed processing Security_20251103.txt in 0.001447 sec
+13-Nov-25 15:20:14	Processing file: Transactions_20251103.txt
+13-Nov-25 15:20:14	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Transactions_20251103.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Transactions_20251103.txt
+13-Nov-25 15:20:14	Pattern matched: Transactions_20251103.txt => /FACTSET_bind/
+13-Nov-25 15:20:14	File copied to ERROR folder: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\ResultFolder\ErrorFiles
+13-Nov-25 15:20:14	Completed processing Transactions_20251103.txt in 0.0016169 sec
+13-Nov-25 15:20:14	Processing file: Weightages_20251103.txt
+13-Nov-25 15:20:14	Identified FactSet file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\In\Weightages_20251103.txt copied to D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Input\Weightages_20251103.txt
+13-Nov-25 15:20:14	Pattern matched: Weightages_20251103.txt => /FACTSET_bind/
+13-Nov-25 15:20:14	Added to FactSet ZIP: Callput_20251103.txt
+13-Nov-25 15:20:14	Added to FactSet ZIP: Dues_20251103.txt
+13-Nov-25 15:20:14	Added to FactSet ZIP: Indxval_20251103.txt
+13-Nov-25 15:20:14	Added to FactSet ZIP: Portfolio_20251103.txt
+13-Nov-25 15:20:14	Added to FactSet ZIP: Price_20251103.txt
+13-Nov-25 15:20:14	Added to FactSet ZIP: Security_20251103.txt
+13-Nov-25 15:20:14	Added to FactSet ZIP: Transactions_20251103.txt
+13-Nov-25 15:20:14	Added to FactSet ZIP: Weightages_20251103.txt
+13-Nov-25 15:20:14	FactSet ZIP created successfully: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\FactSet\Backup\FactSet_20251113.zip
+13-Nov-25 15:20:14	FactSet ZIP uploaded successfully.
+13-Nov-25 15:20:14	Completed processing Weightages_20251103.txt in 0.1009564 sec
+13-Nov-25 15:20:14	Utility completed successfully at 13-Nov-25 15:20:14
+
+13-Nov-25 17:13:39	Utility started at 13-Nov-25 17:13:39
+13-Nov-25 17:13:39	Opening mapping file: D:\Bhaneshvar\CylsysUtility\MpowerSFTPutility\Mpower_Dissemination_Save\MPower_Dissemination_Save.xlsx
+13-Nov-25 17:13:39	Excel reader created successfully.
+13-Nov-25 17:13:39	Mapping file loaded successfully. Total rows: 64
+13-Nov-25 17:13:39	Total files fetched for processing: 0
+13-Nov-25 17:13:39	Total files fetched for processing: 0
+13-Nov-25 17:13:39	No files found in input folder.
+13-Nov-25 17:13:39	Utility completed successfully at 13-Nov-25 17:13:39
+

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MpowerSFTPutility": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
